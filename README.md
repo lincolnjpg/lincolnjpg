@@ -9,7 +9,7 @@ Hello and thank you for visiting! My name is **Lincoln Junior**, and I’m passi
 Here is a list of programming languages and technologies that I have **professional experience** with:
 
 <div align="center">
-
+  
 <picture>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go" height="60">
 </picture>
@@ -28,6 +28,9 @@ Here is a list of programming languages and technologies that I have **professio
 <picture>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Mongodb-svgrepo-com.svg" alt="MongoDB" height="60">
 </picture>
+
+<br>
+
 <picture>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Google_cloud.png" alt="GCP" height="60">
 </picture>
