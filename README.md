@@ -4,7 +4,7 @@ Hello and thank you for visiting! My name is **Lincoln Junior**, and I’m passi
 
 ---
 
-## Languages & Technologies I've Worked With 🚀
+## Languages & Technologies I've Worked With
 
 Here is a list of programming languages and technologies that I have **professional experience** with:
 
@@ -51,7 +51,7 @@ Here is a list of programming languages and technologies that I have **professio
 
 ---
 
-## Additional Languages & Technologies I Have Explored 💡
+## Additional Languages & Technologies I Have Explored
 
 I’ve also had the opportunity to work with the following programming languages and technologies, although not professionally yet:
 
@@ -81,7 +81,7 @@ I’ve also had the opportunity to work with the following programming languages
 
 ---
 
-## Let's Connect! 🌐
+## Let's Connect!
 
 Feel free to explore my repositories, and don’t hesitate to connect with me:
 
@@ -91,6 +91,6 @@ Feel free to explore my repositories, and don’t hesitate to connect with me:
 
 ---
 
-### Disclaimer ⚠️
+### Disclaimer
 
 The logos used in this profile belong to their respective owners. They are used here for educational and illustrative purposes.
